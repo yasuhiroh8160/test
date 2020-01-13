@@ -14,12 +14,6 @@ masterで書き込み
 
 さらにさらにfirst
 
-
-
-forth
-
-さらにfirst
-
 444
 
 
