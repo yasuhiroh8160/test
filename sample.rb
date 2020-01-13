@@ -3,3 +3,6 @@ def hello
 end
 
 hello
+
+second
+masterで書き込み
